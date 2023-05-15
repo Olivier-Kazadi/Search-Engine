@@ -1,0 +1,29 @@
+{
+  "name": "search-engine",
+  "version": "1.0.0",
+  "description": "Un projet React permettant de rechercher des images",
+  "main": "App.js",
+  "scripts": {
+    "test": "npm test",
+    "start": "react-scripts start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Olivier-Kazadi/Search-Engine.git"
+  },
+  "keywords": [
+    "react",
+    "javascript",
+    "projet"
+  ],
+  "author": "Kazadi Olivier <o.kazadi19@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Olivier-Kazadi/Search-Engine/issues"
+  },
+  "homepage": "https://github.com/Olivier-Kazadi/Search-Engine#readme",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
